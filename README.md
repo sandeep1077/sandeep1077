@@ -14,15 +14,15 @@ On my GitHub profile, I share some of my projects which include building a [port
 [trash classifier using tensorflow](https://github.com/sandeep1077/Trash-Classifier-in-Python-using-Tensorflow) 🗑️.
 
 
-### GitHub Stats
+## GitHub Stats:
 
 ![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep1077)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep1077)](https://github.com/sandeep1077/github-readme-stats)
 
 ## Skills and Tools:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Database-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Editor-VS-Code-informational?style=flat&logo=vscode&logoColor=white&color=2CD4A7)
