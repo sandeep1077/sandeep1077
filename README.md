@@ -8,7 +8,7 @@ On my GitHub profile, I share some of my projects which include building a [port
 [trash classifier using tensorflow](https://github.com/sandeep1077/Trash-Classifier-in-Python-using-Tensorflow) 
 
 [![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep1077&hide=prs&count_private=true&show_icons=true&theme=algolia)]
-(https://github.com/sandeep1077/github-readme-stats)
+
 
 
 ## Skills and Tools:
@@ -17,7 +17,7 @@ On my GitHub profile, I share some of my projects which include building a [port
 ![](https://img.shields.io/badge/MachineLearning-Supervised-informational?style=flat&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/MachineLearning-Unsupervised-informational?style=flat&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DeepLearning-PyTorchLightning-informational?style=flat&logo=pytorch&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/DataViz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DataViz-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DataViz-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DataViz-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2CD4A7)
 
