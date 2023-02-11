@@ -7,7 +7,7 @@ On my GitHub profile, I share some of my projects which include building a [port
  My largest project to date involved 
 [trash classifier using tensorflow](https://github.com/sandeep1077/Trash-Classifier-in-Python-using-Tensorflow) 
 
-[![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep1077&hide=prs&count_private=true&show_icons=true&theme=algolia)]
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep1077&hide=prs&count_private=true&show_icons=true&theme=algolia)
 
 
 
