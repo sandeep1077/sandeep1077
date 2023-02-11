@@ -23,6 +23,8 @@ On my GitHub profile, I share some of my projects which include building a [port
 ## Skills and Tools:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Database-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Editor-VS-Code-informational?style=flat&logo=vscode&logoColor=white&color=2CD4A7)
