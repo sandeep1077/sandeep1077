@@ -16,7 +16,7 @@ On my GitHub profile, I share some of my projects which include building a [port
 
 ## GitHub Stats:
 
-![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep1077)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep1077)
 
