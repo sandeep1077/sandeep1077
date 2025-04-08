@@ -11,7 +11,7 @@ I'm a self-taught data scientist. I'm especially interested in the intersection 
 On my GitHub profile, I share some of my projects which include building a [portfolio website](https://sandeep1077.github.io) :computer:,
  doing [time series visulizer](https://github.com/sandeep1077/freecodecamp-data-analysis-wit-python/tree/main/freecodecamp-time-series-visualizer) 📈.
  My largest project to date involved 
-[trash classifier using tensorflow](https://github.com/sandeep1077/Trash-Classifier-in-Python-using-Tensorflow) 🗑️.
+[trash classifier using tensorflow](https://github.com/sandeep1077/Trash-Classifier-using-Tensorflow) 🗑️.
 
 
 ## GitHub Stats:
