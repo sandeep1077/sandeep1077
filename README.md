@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=2cd4a7)](https://sandeep1077.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:water.sandeep@gmail.com)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2cd4a7?style=for-the-badge&logo=checkmarx&logoColor=white)
-
+<img src="https://img.shields.io/badge/Open%20to%20Work-2cd4a7?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work">
 </div>
 
 ---
