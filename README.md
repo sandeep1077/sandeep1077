@@ -1,78 +1,93 @@
-# Hi there 👋
-
-## I'm Sandeep Kapoor
+# 👋 Hi, I'm Sandeep Kapoor
 
 🎓 Master's in Applied Computing (Canada)  
-💻 Data Scientist | Machine Learning Enthusiast  
-🌱 Interested in Data Science & Sustainability  
+💼 Aspiring Data Analyst / Data Scientist  
+📊 Skilled in Data Analysis, Machine Learning & Applied AI  
+🌍 Interested in building data-driven solutions with real-world impact  
 
 ---
 
-## 🔗 Connect with Me
+## 💼 Professional Summary
+Data-focused professional with experience in both analytical and machine learning projects. Capable of transforming raw data into actionable insights and building predictive models to solve practical problems.
+
+---
+
+## 🚀 Key Projects
+
+### 🏦 Credit Card Comparison Analysis
+- Built a system to analyze and compare financial products  
+- Implemented web scraping, parsing, ranking, and recommendation logic  
+- Designed data-driven decision support features  
+**Skills:** Data Processing, Ranking Algorithms, Pattern Analysis  
+
+---
+
+### 🗑️ Trash Classifier (Deep Learning)
+- Developed an image classification model using TensorFlow  
+- Applied preprocessing, feature extraction, and tuning  
+- Focus on sustainability use case  
+
+🔗 https://github.com/sandeep1077/Trash-Classifier-using-Tensorflow  
+
+---
+
+### 📊 Time Series Visualizer
+- Performed trend and seasonality analysis  
+- Built visualizations for data interpretation  
+
+🔗 https://github.com/sandeep1077/freecodecamp-data-analysis-wit-python/tree/main/freecodecamp-time-series-visualizer  
+
+---
+
+## 🛠️ Technical Skills
+
+### 📊 Data Analysis
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- Statistical Analysis  
+- Data Visualization  
+
+---
+
+### 🤖 Machine Learning
+- Supervised & Unsupervised Learning  
+- Model Evaluation & Optimization  
+- Feature Engineering  
+- Deep Learning (CNNs)  
+
+---
+
+### 🧰 Tools & Technologies
+![Python](https://img.shields.io/badge/Python-Data%20%26%20ML-2CD4A7?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Database-2CD4A7?style=flat&logo=mysql)
+![Pandas](https://img.shields.io/badge/Pandas-Analysis-2CD4A7?style=flat&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-ML-2CD4A7?style=flat&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DL-2CD4A7?style=flat&logo=tensorflow)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-2CD4A7?style=flat&logo=tableau)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-2CD4A7?style=flat&logo=jupyter)
+![Git](https://img.shields.io/badge/Git-VersionControl-2CD4A7?style=flat&logo=git)
+
+---
+
+## 📊 What I Bring
+- Ability to bridge **data analysis and machine learning**  
+- Experience building **end-to-end data projects**  
+- Strong problem-solving and analytical thinking  
+- Focus on **practical, scalable, and data-driven solutions**  
+
+---
+
+## 🎯 Career Focus
+- Data Analyst / Data Scientist roles  
+- Banking, Finance, and Tech domains  
+- Data-driven decision systems and predictive modeling  
+
+---
+
+## 🔗 Connect
 - LinkedIn: https://www.linkedin.com/in/sandeep1077  
 - Portfolio: https://sandeep1077.github.io  
 
 ---
 
-## 🚀 Projects
-
-### 📊 Time Series Visualizer
-- Data visualization and trend analysis  
-- Tech: Python, Pandas, Matplotlib  
-🔗 https://github.com/sandeep1077/freecodecamp-data-analysis-wit-python/tree/main/freecodecamp-time-series-visualizer  
-
----
-
-### 🗑️ Trash Classifier (Deep Learning)
-- Image classification using TensorFlow  
-- Focus on sustainability and waste management  
-🔗 https://github.com/sandeep1077/Trash-Classifier-using-Tensorflow  
-
----
-
-### 🌐 Portfolio Website
-- Personal portfolio showcasing projects  
-🔗 https://sandeep1077.github.io  
-
----
-
-## 🛠️ Skills & Tools
-
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-Primary-informational?style=flat&logo=python&color=2CD4A7)
-![C](https://img.shields.io/badge/C-Programming-informational?style=flat&logo=c&color=2CD4A7)
-![C++](https://img.shields.io/badge/C++-Programming-informational?style=flat&logo=c%2B%2B&color=2CD4A7)
-![HTML](https://img.shields.io/badge/HTML-Web-informational?style=flat&logo=html5&color=2CD4A7)
-
----
-
-### 📊 Data Science & ML
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-ML-informational?style=flat&logo=scikit-learn&color=2CD4A7)
-![Keras](https://img.shields.io/badge/Keras-DeepLearning-informational?style=flat&logo=keras&color=2CD4A7)
-![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-informational?style=flat&logo=pytorch&color=2CD4A7)
-
----
-
-### 📈 Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-informational?style=flat&logo=matplotlib&color=2CD4A7)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-informational?style=flat&color=2CD4A7)
-![Tableau](https://img.shields.io/badge/Tableau-BI-informational?style=flat&logo=tableau&color=2CD4A7)
-
----
-
-### 🗄️ Tools & Databases
-![MySQL](https://img.shields.io/badge/MySQL-Database-informational?style=flat&logo=mysql&color=2CD4A7)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-informational?style=flat&logo=jupyter&color=2CD4A7)
-![VS Code](https://img.shields.io/badge/VSCode-Editor-informational?style=flat&logo=visual-studio-code&color=2CD4A7)
-
----
-
-## 📌 About Me
-- Strong interest in Machine Learning and AI  
-- Experience with real-world data science projects  
-- Focused on building impactful and scalable solutions  
-
----
-
-## 📈 GitHub Activity
-Explore my repositories and contributions below 👇
+⭐ *Focused on turning data into insights and intelligent solutions*
