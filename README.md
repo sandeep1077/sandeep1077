@@ -10,21 +10,19 @@
 </p>
 
 <!-- 2-column layout -->
-<table>
+<table width="100%">
 <tr>
 
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="padding-right:10px;">
 
 ### 🚀 Featured Projects
 
-<div align="left">
-
 <div style="border:1px solid #2CD4A7;border-radius:12px;padding:10px;margin-bottom:15px;">
 <h4>🗑️ Trash Classifier (Deep Learning)</h4>
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Trash Classifier GIF" width="100%" style="border-radius:12px;"/>
+<img src="https://user-images.githubusercontent.com/1077/placeholder-trash.gif" alt="Trash Classifier GIF" width="100%" style="border-radius:12px;"/>
 <ul>
 <li>CNN-based image classification for sustainability</li>
-<li>Data preprocessing, feature extraction, hyperparameter tuning</li>
+<li>Preprocessing, feature extraction, hyperparameter tuning</li>
 <li>Python & TensorFlow</li>
 </ul>
 <p align="center"><a href="https://github.com/sandeep1077/Trash-Classifier-using-Tensorflow" style="text-decoration:none;"><b>View Project</b></a></p>
@@ -32,7 +30,7 @@
 
 <div style="border:1px solid #2CD4A7;border-radius:12px;padding:10px;margin-bottom:15px;">
 <h4>🏦 Credit Card Comparison Analysis</h4>
-<img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" alt="Credit Card Project GIF" width="100%" style="border-radius:12px;"/>
+<img src="https://user-images.githubusercontent.com/1077/placeholder-creditcard.gif" alt="Credit Card GIF" width="100%" style="border-radius:12px;"/>
 <ul>
 <li>Web scraping & ranking algorithms for financial products</li>
 <li>Recommendation system based on user preferences</li>
@@ -43,7 +41,7 @@
 
 <div style="border:1px solid #2CD4A7;border-radius:12px;padding:10px;margin-bottom:15px;">
 <h4>📊 Time Series Visualizer</h4>
-<img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" alt="Time Series GIF" width="100%" style="border-radius:12px;"/>
+<img src="https://user-images.githubusercontent.com/1077/placeholder-timeseries.gif" alt="Time Series GIF" width="100%" style="border-radius:12px;"/>
 <ul>
 <li>Trend detection & visualization dashboards</li>
 <li>Python, Pandas & Matplotlib</li>
@@ -51,39 +49,45 @@
 <p align="center"><a href="https://github.com/sandeep1077/freecodecamp-data-analysis-wit-python/tree/main/freecodecamp-time-series-visualizer" style="text-decoration:none;"><b>View Project</b></a></p>
 </div>
 
-</div>
-
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="padding-left:10px;">
 
 ### 🛠️ Skills & Tools
 
 #### 💻 Programming
-- Python ![Python](https://progress-bar.dev/70/?title=Python)
-- C++ ![C++](https://progress-bar.dev/50/?title=C%2B%2B)
-- C ![C](https://progress-bar.dev/50/?title=C)
-- HTML ![HTML](https://progress-bar.dev/60/?title=HTML)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
 
 #### 📊 Data & ML
-- Machine Learning ![ML](https://progress-bar.dev/70/?title=ML)
-- Deep Learning ![DL](https://progress-bar.dev/60/?title=DL)
-- Scikit-Learn ![Sklearn](https://progress-bar.dev/80/?title=ScikitLearn)
-- TensorFlow ![TF](https://progress-bar.dev/65/?title=TensorFlow)
-- PyTorch ![PT](https://progress-bar.dev/60/?title=PyTorch)
-- Keras ![Keras](https://progress-bar.dev/60/?title=Keras)
+<p>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+</p>
 
 #### 📈 Visualization
-- Matplotlib ![Matplotlib](https://progress-bar.dev/75/?title=Matplotlib)
-- Seaborn ![Seaborn](https://progress-bar.dev/70/?title=Seaborn)
-- Tableau ![Tableau](https://progress-bar.dev/60/?title=Tableau)
-- Pandas ![Pandas](https://progress-bar.dev/85/?title=Pandas)
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
 #### 🧰 Tools
-- Jupyter Notebook ![Jupyter](https://progress-bar.dev/80/?title=Jupyter)
-- VS Code ![VSCode](https://progress-bar.dev/75/?title=VSCode)
-- Git ![Git](https://progress-bar.dev/80/?title=Git)
-- MySQL ![MySQL](https://progress-bar.dev/65/?title=MySQL)
+<p>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 </td>
 </tr>
@@ -99,7 +103,7 @@
 
 ### 🎯 Career Focus
 - Data Analyst / Data Scientist roles  
-- Banking, Finance, and Tech domains  
-- End-to-end data solutions, predictive modeling & dashboards  
+- Banking, Finance, Tech domains  
+- End-to-end data solutions, predictive modeling, dashboards  
 
 ⭐ *Turning data into insights and building intelligent systems for real-world impact*
