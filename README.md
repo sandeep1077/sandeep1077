@@ -1,89 +1,85 @@
-<h1 align="center">Hi there! 👋 I'm Sandeep Kapoor</h1>
-<p align="center">
-🎓 Master's in Applied Computing | Canada • 💼 Aspiring Data Analyst / Data Scientist • 🌱 Passionate about ML & Sustainability
-</p>
+<div align="center">
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sandeep1077"><img src="https://img.shields.io/badge/LinkedIn-Sandeep%20Kapoor-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="https://sandeep1077.github.io"><img src="https://img.shields.io/badge/Portfolio-sandeep1077.github.io-lightgrey?style=for-the-badge&logo=github" alt="Portfolio"/></a>
-<a href="mailto:sandeep.kapoor@example.com"><img src="https://img.shields.io/badge/Email-sandeep.kapoor-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2cd4a7&height=180&section=header&text=Sandeep%20Kapoor&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=58&descSize=16&descColor=a0f0dc" width="100%"/>
 
-<table width="100%" style="table-layout: fixed;">
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep1077)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=2cd4a7)](https://sandeep1077.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeep.kapoor@example.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2cd4a7?style=for-the-badge&logo=checkmarx&logoColor=white)]()
+
+</div>
+
+<br/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep1077&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2cd4a7&text_color=ffffff" width="38%"/>
+
+### 👋 Hello, I'm Sandeep
+
+🎓 &nbsp;**Master's in Applied Computing** — University of Windsor, Canada  
+💡 &nbsp;I turn raw data into clear decisions and production-ready ML systems  
+🏦 &nbsp;Focused on **Banking, Finance & Tech** domains  
+📍 &nbsp;Ontario, Canada · Eligible to work without sponsorship  
+💬 &nbsp;Ask me about Python, SQL, ML pipelines, or dashboards
+
+<br clear="right"/>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
 <tr>
+<td width="50%" valign="top">
 
-<td valign="top" width="50%" style="padding-right:15px;">
+### 🗑️ Trash Classifier
+**Deep Learning · Computer Vision**
 
-<b>🚀 Featured Projects</b>
+CNN-based image classifier that automatically identifies and categorizes waste materials — built to support sustainability and smart recycling initiatives.
 
-<div style="border:1px solid #2CD4A7; border-radius:12px; padding:12px; margin-bottom:15px;">
-<b>🗑️ Trash Classifier (Deep Learning)</b><br>
-<ul style="margin-top:4px; margin-bottom:4px;">
-<li>CNN-based image classification for sustainability</li>
-<li>Preprocessing, feature extraction, hyperparameter tuning</li>
-<li>Python & TensorFlow</li>
-</ul>
-<p align="center"><a href="https://github.com/sandeep1077/Trash-Classifier-using-Tensorflow"><b>View Project</b></a></p>
-</div>
+`TensorFlow` `Keras` `Python` `NumPy`
 
-<div style="border:1px solid #2CD4A7; border-radius:12px; padding:12px; margin-bottom:15px;">
-<b>🏦 Credit Card Comparison Analysis</b><br>
-<ul style="margin-top:4px; margin-bottom:4px;">
-<li>Web scraping & ranking algorithms for financial products</li>
-<li>Recommendation system based on user preferences</li>
-<li>Python & Data Analysis</li>
-</ul>
-<p align="center"><a href="https://github.com/sandeep1077"><b>View Project</b></a></p>
-</div>
-
-<div style="border:1px solid #2CD4A7; border-radius:12px; padding:12px; margin-bottom:15px;">
-<b>📊 Time Series Visualizer</b><br>
-<ul style="margin-top:4px; margin-bottom:4px;">
-<li>Trend detection & visualization dashboards</li>
-<li>Python, Pandas & Matplotlib</li>
-</ul>
-<p align="center"><a href="https://github.com/sandeep1077/freecodecamp-data-analysis-wit-python/tree/main/freecodecamp-time-series-visualizer"><b>View Project</b></a></p>
-</div>
+[![View Project](https://img.shields.io/badge/View%20Project-2cd4a7?style=flat-square&logo=github&logoColor=black)](https://github.com/sandeep1077/Trash-Classifier-using-Tensorflow)
 
 </td>
+<td width="50%" valign="top">
 
-<td valign="top" width="50%" style="padding-left:15px;">
+### 🏦 Credit Card Recommender
+**Web Scraping · Recommendation System**
 
-<b>🛠️ Skills & Tools</b><br>
+Scrapes and normalizes financial product data across providers, then ranks and recommends cards based on user preferences like rewards, fees, and APR.
 
-<b>💻 Programming</b><br>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</p>
+`Python` `BeautifulSoup` `Pandas` `Scikit-learn`
 
-<b>📊 Data & ML</b><br>
-<p>
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-</p>
+[![View Project](https://img.shields.io/badge/View%20Project-2cd4a7?style=flat-square&logo=github&logoColor=black)](https://github.com/sandeep1077)
 
-<b>📈 Visualization</b><br>
-<p>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<b>🧰 Tools</b><br>
-<p>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+### 📊 Time Series Visualizer
+**Data Analysis · Dashboard**
+
+Detects trends and seasonal patterns across multi-year datasets through interactive line, bar, and box plot dashboards with full data cleaning pipelines.
+
+`Python` `Pandas` `Matplotlib` `Seaborn`
+
+[![View Project](https://img.shields.io/badge/View%20Project-2cd4a7?style=flat-square&logo=github&logoColor=black)](https://github.com/sandeep1077/freecodecamp-data-analysis-wit-python/tree/main/freecodecamp-time-series-visualizer)
+
+</td>
+<td width="50%" valign="top">
+
+### 📂 More on GitHub
+
+Explore the full collection of data analysis exercises, ML experiments, and academic projects.
+
+<br/>
+
+[![All Repos](https://img.shields.io/badge/Browse%20All%20Repos-2cd4a7?style=flat-square&logo=github&logoColor=black)](https://github.com/sandeep1077?tab=repositories)
 
 </td>
 </tr>
@@ -91,9 +87,87 @@
 
 ---
 
-### 🎯 Career Focus
-- Data Analyst / Data Scientist roles  
-- Banking, Finance, Tech domains  
-- End-to-end data solutions, predictive modeling, dashboards  
+## 🛠️ Skills
 
-⭐ *Turning data into insights and building intelligent systems for real-world impact*
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**ML & AI**
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**Data & Visualization**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+</td>
+<td valign="top" width="25%">
+
+**Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sandeep1077&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2cd4a7&icon_color=2cd4a7&text_color=ffffff&count_private=true" height="155"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sandeep1077&theme=tokyonight&hide_border=true&background=0d1117&ring=2cd4a7&fire=ff9800&currStreakLabel=2cd4a7" height="155"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sandeep1077&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
+
+</div>
+
+---
+
+## 📜 Certifications
+
+| &nbsp; | Certification | Issuer |
+|---|---|---|
+| ✅ | Data Analysis with Python | freeCodeCamp |
+| ✅ | Scientific Computing with Python | freeCodeCamp |
+
+---
+
+<div align="center">
+
+**💼 Available for full-time Data Analyst & Data Scientist roles**
+*Let's connect and build something impactful together*
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep1077)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-111111?style=for-the-badge&logo=github&logoColor=2cd4a7)](https://sandeep1077.github.io)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2cd4a7,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
