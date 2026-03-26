@@ -18,7 +18,7 @@ On my GitHub profile, I share some of my projects which include building a [port
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep1077)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep1077&layout=compact&theme=tokyonight)
 
 ## Skills and Tools:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
