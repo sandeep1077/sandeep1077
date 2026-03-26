@@ -18,7 +18,6 @@
 
 <div style="border:1px solid #2CD4A7; border-radius:12px; padding:12px; margin-bottom:15px;">
 <b>🗑️ Trash Classifier (Deep Learning)</b><br>
-<img src="https://media.giphy.com/media/26xBtSyoi5hUUkCEo/giphy.gif" width="100%" style="border-radius:12px; margin-top:8px; margin-bottom:8px;"/>
 <ul style="margin-top:4px; margin-bottom:4px;">
 <li>CNN-based image classification for sustainability</li>
 <li>Preprocessing, feature extraction, hyperparameter tuning</li>
@@ -29,7 +28,6 @@
 
 <div style="border:1px solid #2CD4A7; border-radius:12px; padding:12px; margin-bottom:15px;">
 <b>🏦 Credit Card Comparison Analysis</b><br>
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" style="border-radius:12px; margin-top:8px; margin-bottom:8px;"/>
 <ul style="margin-top:4px; margin-bottom:4px;">
 <li>Web scraping & ranking algorithms for financial products</li>
 <li>Recommendation system based on user preferences</li>
@@ -40,7 +38,6 @@
 
 <div style="border:1px solid #2CD4A7; border-radius:12px; padding:12px; margin-bottom:15px;">
 <b>📊 Time Series Visualizer</b><br>
-<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="100%" style="border-radius:12px; margin-top:8px; margin-bottom:8px;"/>
 <ul style="margin-top:4px; margin-bottom:4px;">
 <li>Trend detection & visualization dashboards</li>
 <li>Python, Pandas & Matplotlib</li>
@@ -91,11 +88,6 @@
 </td>
 </tr>
 </table>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sandeep1077&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep1077&layout=compact&theme=radical" width="48%" />
-</p>
 
 ---
 
