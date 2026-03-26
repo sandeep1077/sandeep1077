@@ -7,7 +7,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep1077)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=2cd4a7)](https://sandeep1077.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:water.sandeep@gmail.com)
-<a href="#!"><img src="https://img.shields.io/badge/Open%20to%20Work-2cd4a7?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"></a>
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2cd4a7?style=for-the-badge&logo=checkmarx&logoColor=white)
+
+<br/>
+
+**💼 Available for full-time Data Analyst & Data Scientist roles**
 
 </div>
 
@@ -15,15 +19,11 @@
 
 ## 👋 About Me
 
-
-
 🎓 &nbsp;**Master's in Applied Computing** — University of Windsor, Canada  
 💡 &nbsp;I turn raw data into clear decisions and production-ready ML systems  
 🏦 &nbsp;Focused on **Banking, Finance & Tech** domains  
 📍 &nbsp;Ontario, Canada · Eligible to work without sponsorship  
 💬 &nbsp;Ask me about Python, SQL, ML pipelines, or dashboards
-
-<br clear="right"/>
 
 ---
 
@@ -33,7 +33,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**🗑️ Trash Classifier**
+**🗑️ Trash Classifier**  
 **Deep Learning · Computer Vision**
 
 CNN-based image classifier that automatically identifies and categorizes waste materials — built to support sustainability and smart recycling initiatives.
@@ -45,7 +45,7 @@ CNN-based image classifier that automatically identifies and categorizes waste m
 </td>
 <td width="50%" valign="top">
 
-**🏦 Credit Card Recommender**
+**🏦 Credit Card Recommender**  
 **Web Scraping · Recommendation System**
 
 Scrapes and normalizes financial product data across providers, then ranks and recommends cards based on user preferences like rewards, fees, and APR.
@@ -59,7 +59,7 @@ Scrapes and normalizes financial product data across providers, then ranks and r
 <tr>
 <td width="50%" valign="top">
 
-**📊 Time Series Visualizer**
+**📊 Time Series Visualizer**  
 **Data Analysis · Dashboard**
 
 Detects trends and seasonal patterns across multi-year datasets through interactive line, bar, and box plot dashboards with full data cleaning pipelines.
@@ -134,22 +134,7 @@ Explore the full collection of data analysis exercises, ML experiments, and acad
 
 ---
 
-## 📜 Certifications
-
 <div align="center">
-
-| &nbsp; | Certification | Issuer |
-|:---:|:---|:---|
-| ✅ | Data Analysis with Python | freeCodeCamp |
-| ✅ | Scientific Computing with Python | freeCodeCamp |
-
-</div>
-
----
-
-<div align="center">
-
-**💼 Available for full-time Data Analyst & Data Scientist roles**
 
 *Let's connect and build something impactful together*
 
